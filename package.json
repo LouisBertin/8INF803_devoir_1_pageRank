@@ -1,0 +1,10 @@
+{
+  "name": "exo2",
+  "version": "0.0.1",
+  "description": "Exercice de BDD répartie sur le pageRank avec une mapReduce",
+  "main": "exo2.js",
+  "author": "Jeremi CHEVALLIER Louis BERTIN Marine VANDAMME",
+  "dependencies": {
+    "mongodb": "latest"
+  }
+}
