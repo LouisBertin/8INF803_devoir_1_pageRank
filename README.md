@@ -1,6 +1,6 @@
 # 8INF803 - Devoir 1
 
-Jérémi CHEVALLIER, Louins Bertin, Marine VANDAMME
+Jérémi CHEVALLIER, Louis Bertin, Marine VANDAMME
 
 ## Prérequis
 Installer les packages pour le page rank (MongoDb)
